@@ -1,2 +1,2 @@
-# Water Resources using GeoAI-ML-DL-ANN-algorithms
+# Applications of GeoAI-ML-DL-ANN in water resources
 
