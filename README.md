@@ -1,2 +1,2 @@
-# Modeling-of-hydrometeorological-events-using-GeoAI-algorithms
-Modeling of hydrometeorological events using GeoAI algorithms
+# Water Resources using GeoAI-ML-DL-ANN-algorithms
+
